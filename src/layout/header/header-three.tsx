@@ -29,7 +29,7 @@ const HeaderThree = () => {
                   style={{
                     fontSize: '30px',
                     fontWeight: 'bold',
-                    color: '#6aa996',
+                    color: '#7d7c4f',
                   }}
                 >
                   {/* <Image src={logo} alt="logo" width={150} /> */}

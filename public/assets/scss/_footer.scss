@@ -192,7 +192,7 @@
 }
 // Footer Three
 .footer-three {
-  background-color: #6ee6c7;
+  background-color: #7d7c4f;
   padding: 75px 0 0;
   position: relative;
   z-index: 1;
@@ -220,7 +220,7 @@
     margin-bottom: 15px;
   }
   .footer-nav-link a {
-    color: rgba($color: #000, $alpha: 1);
+    color: rgba($color: #fff, $alpha: 1);
     line-height: 46px;
     @include transition(0.2s);
     &:hover {
